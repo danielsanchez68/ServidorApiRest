@@ -1,0 +1,20 @@
+[
+	{
+		"nombre": "Teclado",
+		"precio": 12.45,
+		"stock": 44,
+		"id": "1"
+	},
+	{
+		"nombre": "Teclado4",
+		"precio": 11.22,
+		"stock": 2000,
+		"id": "4"
+	},
+	{
+		"nombre": "Teclado5",
+		"precio": 55,
+		"stock": 44,
+		"id": "7"
+	}
+]
