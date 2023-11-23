@@ -1,6 +1,8 @@
 import ModelFile from "./productosFile.js"
 import ModelMem from "./productosMem.js"
-import ModelMongoDB from "./productosMongoDB.js"
+//import ModelMongoDB from "./productosMongoDB.js"      // DAO con MongoDB NodeJS Driver
+import ModelMongoDB from "./productosMongoose.js"        // DAO con Mongoose
+
 
 class ModelFactory {
     static get(tipo) {
